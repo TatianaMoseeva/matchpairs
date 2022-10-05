@@ -1,6 +1,10 @@
-{
+{"homepage": "https://tatianamoseeva.github.io/matchpairs",
+"scripts" : {
+  "deploy": "gh-pages -d dist"
+},
   "devDependencies": {
     "del": "^6.1.1",
+    "gh-pages": "^4.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
