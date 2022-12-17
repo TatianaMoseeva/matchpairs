@@ -1,5 +1,5 @@
 # A memory game where you need to match pairs of tiles
-
+### A memory game where you need to match pairs of tiles
 ## Link
 [Project on Github pages](https://tatianamoseeva.github.io/matchpairs/)
 
@@ -16,5 +16,5 @@
 
 :white_check_mark: Layout design in Figma  
 :white_check_mark: HTML layout development and styling with CSS  
-:white_check_mark: Development of JavaScript code
+:white_check_mark: Development of JavaScript code  
 :white_check_mark: Testing and validation  
