@@ -3,8 +3,7 @@
 ## Link
 [Project on Github pages](https://tatianamoseeva.github.io/matchpairs/)
 
-![screenshot](match_gif.gif "Game")
-<img src="https://github.com/TatianaMoseeva/matchpairs/blob/main/match_gif.gif" width="250" />
+<img src="https://github.com/TatianaMoseeva/matchpairs/blob/main/match_gif.gif" width="350" />
 ## Features 
 
 :star: Written on Native JavaScript
