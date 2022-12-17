@@ -3,7 +3,7 @@
 
 ## Link - [Project on Github pages](https://tatianamoseeva.github.io/matchpairs/)
 
-<img src="https://github.com/TatianaMoseeva/matchpairs/blob/main/match_gif.gif" width="350" />
+<img src="https://github.com/TatianaMoseeva/matchpairs/blob/main/match.gif" width="400" />
 
 ## Features 
 
