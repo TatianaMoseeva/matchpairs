@@ -9,7 +9,7 @@
 
 :star: Written on Native JavaScript  
 :star: Responsive web design adapted to all screen sizes  
-:star: Three levels game 
+:star: Three levels game  
 :star: A timer showing the result for each level  
 
 ## Execution
