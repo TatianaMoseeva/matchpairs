@@ -1,7 +1,7 @@
-# Click & match
+# Click & Match
 ### A memory game where you need to match pairs of tiles
 
-## Link [Project on Github pages](https://tatianamoseeva.github.io/matchpairs/)
+## Link - [Project on Github pages](https://tatianamoseeva.github.io/matchpairs/)
 
 <img src="https://github.com/TatianaMoseeva/matchpairs/blob/main/match_gif.gif" width="350" />
 
