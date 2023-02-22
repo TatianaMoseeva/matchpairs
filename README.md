@@ -7,7 +7,7 @@
 
 ## Features 
 
-:star: Written on Native JavaScript  
+:star: Written on plain JavaScript  
 :star: Responsive web design adapted to all screen sizes  
 :star: Three levels game  
 :star: A timer showing the result for each level  
